@@ -2,7 +2,7 @@
 Main application for RAG Agent
 
 This module provides a simple interface for using the RAG agent,
-combining both the ingestion and retrieval components.
+combining both the ingestion and retrieval components using Langgraph, Langchain and supabase as vector database.
 """
 
 import os
